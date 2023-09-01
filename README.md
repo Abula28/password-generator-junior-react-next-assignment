@@ -1,6 +1,5 @@
 ﻿# Password generator junior react/next dev assignment
 
-**მოგესალმებით Password Generator-ის დავალებაზე, გილოცავთ აქ მოხვედრას და წარმატებებს გისურვებთ.**<br />
 
 ## Description: <p>You have 2 hours to create a simple React or Next.js web application that integrates with an existing Node.js project for password generation. The Node.js project provides symbols for password generation, and your task is to create a basic user interface for generating passwords using this Node.js API.</p>
 
@@ -25,5 +24,7 @@ Implement the password generation logic by sending the user's criteria (password
 Display the generated password on the UI.
 
 In this simplified version of the assignment, participants will focus solely on integrating the Node.js API, implementing password generation, and creating a basic UI. Additional features, styling, testing, and documentation have been removed to meet the 2-hour deadline. Be sure to communicate the adjusted expectations and encourage participants to prioritize completing the core tasks within the given time frame.
+
+Good Luck.
 
 
