@@ -18,7 +18,7 @@ Ensure that you can successfully fetch data (symbols) from the Node.js API.
 Create a minimal UI with an input field for specifying password length.
 Include a button for generating passwords.
 
-## Password Generation Logic:
+### Password Generation Logic:
 Implement the password generation logic by sending the user's criteria (password length) to the Node.js API and receiving the generated password.
 
 ### Display Generated Password:
