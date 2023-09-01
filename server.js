@@ -10,7 +10,7 @@ const symbols = [
   {
     characters: "abscdefghijklmnopqrstuvwxyz",
     numbers: "1234567890",
-    symbols: `!@#$%^&*()_-=+'"|/.,?`,
+    symbols: `!@#$%^&*()_-=+'"|/.,?;:[]{}`,
   },
 ];
 
